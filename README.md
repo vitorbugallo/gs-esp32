@@ -36,11 +36,11 @@ Os dados podem ser enviados via MQTT para integração com sistemas de supervis�
 
 ## Link do Projeto Wokwi
 
-[https://wokwi.com/projects/COLE_AQUI_O_LINK_DO_SEU_PROJETO](https://wokwi.com/projects/COLE_AQUI_O_LINK_DO_SEU_PROJETO)
+https://wokwi.com/projects/447662582236788737
 
 ## Vídeo de Demonstração
 
-[INSERIR_LINK_DO_VÍDEO_AQUI]
+https://youtu.be/EC5Es5pTgFU?si=yG7MdSnyjzOZ35o_
 
 ## Código Principal
 
